@@ -12,6 +12,10 @@ An Adventure in Mod Integration. This open-source mod uses an auto-register proc
 - Mutater Rex
   - Rex that randomly gains mutations when levelled 
   - Uses 'Block Types' integration to block mindwipe usage 
+- NottaGacha
+  - Copy of vanilla Gacha 
+  - Demos integration w/ Upgrade My Dino's Gacha features (HUD, wild inventory taming, reroll resources)
+  - Uses 'Add Callback' integration to permanently reduce chance of very rare resourceon reroll 
   
 Koz Dinos on Steam Workshop: 
 https://steamcommunity.com/sharedfiles/filedetails/?id=2132927574
